@@ -2,8 +2,8 @@ import sbt._
 import Keys._
 
 object Version {
-  val jol = "0.5"
-  val scriptedPlugin = "1.4.4"
+  val jol = "0.17"
+  val scriptedPlugin = "1.9.3"
 }
 
 object Dependencies {
